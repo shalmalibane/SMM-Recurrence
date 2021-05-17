@@ -1,10 +1,9 @@
 # SMM-Recurrence
 
-
 Code for paper "Recurrence of severe maternal morbidity: A population-based cohort analysis of California women" published in Paedetric and Perinatal Epidemiology 
 (https://pubmed.ncbi.nlm.nih.gov/33155710/)
 
-Authors: Shalmali Bane, Elizabeth Wall-Wieler, Audrey Lyndon, Suzan L Carmichael
+**Authors:** Shalmali Bane, Elizabeth Wall-Wieler, Audrey Lyndon, Suzan L Carmichael
 
 **Abstract**
 Background: Severe maternal morbidity (SMM) has increased in the United States by 45% in the last decade. While the recurrence of several adverse pregnancy outcomes from one pregnancy to the next has been established, the recurrence risk of SMM is unknown.
@@ -19,4 +18,4 @@ Conclusion: Women experiencing SMM in their first pregnancy were at an approxima
 
 Keywords: high-risk pregnancy; maternal health; morbidity; pregnancy complications; pregnancy outcome.
 
-Correspondance: Shalmali Bane (sbane@stanford.edu)
+**Correspondance:** Shalmali Bane (sbane@stanford.edu)
